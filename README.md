@@ -1,16 +1,13 @@
 # Hello, I'm Camila 👽👾
 
-Welcome to my GitHub profile! I'm a software developer specializing in Front-end development.
-
-## About Me
-
+- I'm a software developer specializing in Front-end development.
 - 🌙 Full-stack developer with a focus on Front-end technologies.
 
 ## Technologies I Work With
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS, PHP, C#
 - **Frameworks/Libraries:** Angular, React
-- **Content Management System:** WordPress
+- **Content Management System:** WordPress, Drupal
 
 ## Projects
 
