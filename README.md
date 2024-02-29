@@ -1,13 +1,12 @@
 # Hello! 👽👾
 
-- I'm a software developer specializing in Front-end development.
-- 🌙 Full-stack developer with a focus on Front-end technologies.
+- 🌙 I'm a Full-stack developer with a focus on Front-end technologies.
 
 ## Technologies I Work With
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS, PHP, C#
 - **Frameworks/Libraries:** Angular, React
-- **Content Management System:** WordPress, Drupal
+- **Content Management System:** WordPress
 
 ## Projects
 
