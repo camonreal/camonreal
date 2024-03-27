@@ -13,8 +13,8 @@
 Here are some of the projects I've worked on:
 
 Websites:
-- [Raptum Studio](https://raptum.co/): WebSite Raptum Studio.
-- [Camila Monreal Tech](https://camilamonreal.tech/): Web site Camila Monreal Tech.
+- [Raptum Studio](https://raptum.co/): Design studio website.
+- [Camila Monreal Tech](https://camilamonreal.tech/): Developer personal website.
 
 Web apps:
 - [Weather](https://github.com/c4m1l4m00n/weather): Weather forecast project | Main Tech: React
