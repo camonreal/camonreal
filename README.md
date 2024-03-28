@@ -4,7 +4,7 @@
 
 ## Technologies I Work With
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, PHP, C#
+- **Languages:** JavaScript, TypeScript, HTML, CSS, PHP, C#, JAVA
 - **Frameworks/Libraries:** Angular, React
 - **Content Management System:** WordPress
 
